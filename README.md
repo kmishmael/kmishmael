@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kmishmael
-- 𓇲 Electical and Electronics Engineering.
+- 𓇲 Electrical and Electronics Engineering.
 - ✌️ Love Angular, NextJS and Flutter.
-- ✌️ Also like Firebase ecosystem.
+- ✌️ Also love Firebase ecosystem.
 - 📫 How to reach me kmishmael@gmail.com
 
 <!---
