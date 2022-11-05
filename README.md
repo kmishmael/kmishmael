@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kmishmael
-- 👀 I’m interested in web, mobile dev and AI.
-- 🌱 I’m currently learning mobile dev.
-- ✌️ Love Angular.
+- 𓇲 Electical and Electronics Engineering.
+- ✌️ Love Angular, NextJS and Flutter.
+- ✌️ Also like Firebase ecosystem.
 - 📫 How to reach me kmishmael@gmail.com
 
 <!---
