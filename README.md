@@ -10,8 +10,6 @@ Hi, I’m @kmishmael
 <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=kmishmael&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&locale=en&layout=compact&theme=github-dark"/>
 </div>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=kmishmael&bg_color=000000&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=2fa4e7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![](https://raw.githubusercontent.com/kmishmael/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kmishmael/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
