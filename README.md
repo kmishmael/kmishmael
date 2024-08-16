@@ -1,7 +1,7 @@
 Hi, I’m @kmishmael
-
+<!--
 *Code is poetry, and I'm the poet crafting elegant solutions one line at a time.*
-
+-->
 ## My World:
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
