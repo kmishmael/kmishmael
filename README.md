@@ -13,7 +13,6 @@ Hi, I’m @kmishmael
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks, Platforms and libraries:
-https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Astro
 ![Astro](https://img.shields.io/badge/Astro-black.svg?style=for-the-badge&logo=Astro)
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
